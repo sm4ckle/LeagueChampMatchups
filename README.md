@@ -1,4 +1,4 @@
-# LeagueChampCounters
+# LeagueChampMatchups
 Tool that lets you enter a League of Legends champion and shows you the best and worst matchup. Scrapes from u.gg
 
 The code for this is probably pretty mediocre and I'm sure it could be optimized, but I worked on this as a project to get better at python. Simple GUI, just input champion name and it will show you the best and worst matchups.
